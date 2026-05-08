@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Overheat Check",
+    "parameter": "temperature",
+    "operator": "<",
+    "value": 110
+  },
+
+  {
+    "name": "RPM Minimum Check",
+    "parameter": "rpm",
+    "operator": ">",
+    "value": 800
+  },
+
+  {
+    "name": "Voltage Check",
+    "parameter": "voltage",
+    "operator": ">=",
+    "value": 11.5
+  }
+]

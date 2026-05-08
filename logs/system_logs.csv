@@ -1,0 +1,493 @@
+Test Name,Parameter,Actual Value,Operator,Expected Value,Status
+Overheat Check,temperature,77,<,110,PASS
+RPM Minimum Check,rpm,4042,>,800,PASS
+Voltage Check,voltage,11.8,>=,11.5,PASS
+Overheat Check,temperature,111,<,110,FAIL
+RPM Minimum Check,rpm,1423,>,800,PASS
+Voltage Check,voltage,11.28,>=,11.5,FAIL
+Overheat Check,temperature,113,<,110,FAIL
+RPM Minimum Check,rpm,4390,>,800,PASS
+Voltage Check,voltage,13.68,>=,11.5,PASS
+Overheat Check,temperature,80,<,110,PASS
+RPM Minimum Check,rpm,2856,>,800,PASS
+Voltage Check,voltage,12.87,>=,11.5,PASS
+Overheat Check,temperature,116,<,110,FAIL
+RPM Minimum Check,rpm,1643,>,800,PASS
+Voltage Check,voltage,14.48,>=,11.5,PASS
+Overheat Check,temperature,71,<,110,PASS
+RPM Minimum Check,rpm,766,>,800,FAIL
+Voltage Check,voltage,12.87,>=,11.5,PASS
+Overheat Check,temperature,79,<,110,PASS
+RPM Minimum Check,rpm,2236,>,800,PASS
+Voltage Check,voltage,12.89,>=,11.5,PASS
+Overheat Check,temperature,107,<,110,PASS
+RPM Minimum Check,rpm,3412,>,800,PASS
+Voltage Check,voltage,12.87,>=,11.5,PASS
+Overheat Check,temperature,106,<,110,PASS
+RPM Minimum Check,rpm,3765,>,800,PASS
+Voltage Check,voltage,13.42,>=,11.5,PASS
+Overheat Check,temperature,91,<,110,PASS
+RPM Minimum Check,rpm,1821,>,800,PASS
+Voltage Check,voltage,13.72,>=,11.5,PASS
+Overheat Check,temperature,87,<,110,PASS
+RPM Minimum Check,rpm,2116,>,800,PASS
+Voltage Check,voltage,13.42,>=,11.5,PASS
+Overheat Check,temperature,105,<,110,PASS
+RPM Minimum Check,rpm,809,>,800,PASS
+Voltage Check,voltage,12.26,>=,11.5,PASS
+Overheat Check,temperature,86,<,110,PASS
+RPM Minimum Check,rpm,4363,>,800,PASS
+Voltage Check,voltage,13.2,>=,11.5,PASS
+Overheat Check,temperature,74,<,110,PASS
+RPM Minimum Check,rpm,2234,>,800,PASS
+Voltage Check,voltage,13.84,>=,11.5,PASS
+Overheat Check,temperature,92,<,110,PASS
+RPM Minimum Check,rpm,2066,>,800,PASS
+Voltage Check,voltage,12.96,>=,11.5,PASS
+Overheat Check,temperature,103,<,110,PASS
+RPM Minimum Check,rpm,1788,>,800,PASS
+Voltage Check,voltage,13.39,>=,11.5,PASS
+Overheat Check,temperature,77,<,110,PASS
+RPM Minimum Check,rpm,3673,>,800,PASS
+Voltage Check,voltage,11.45,>=,11.5,FAIL
+Overheat Check,temperature,113,<,110,FAIL
+RPM Minimum Check,rpm,4705,>,800,PASS
+Voltage Check,voltage,12.36,>=,11.5,PASS
+Overheat Check,temperature,109,<,110,PASS
+RPM Minimum Check,rpm,1309,>,800,PASS
+Voltage Check,voltage,12.87,>=,11.5,PASS
+Overheat Check,temperature,83,<,110,PASS
+RPM Minimum Check,rpm,1192,>,800,PASS
+Voltage Check,voltage,13.09,>=,11.5,PASS
+Overheat Check,temperature,116,<,110,FAIL
+RPM Minimum Check,rpm,2834,>,800,PASS
+Voltage Check,voltage,12.46,>=,11.5,PASS
+Overheat Check,temperature,73,<,110,PASS
+RPM Minimum Check,rpm,4082,>,800,PASS
+Voltage Check,voltage,11.18,>=,11.5,FAIL
+Overheat Check,temperature,72,<,110,PASS
+RPM Minimum Check,rpm,3133,>,800,PASS
+Voltage Check,voltage,14.07,>=,11.5,PASS
+Overheat Check,temperature,90,<,110,PASS
+RPM Minimum Check,rpm,1925,>,800,PASS
+Voltage Check,voltage,13.44,>=,11.5,PASS
+Overheat Check,temperature,83,<,110,PASS
+RPM Minimum Check,rpm,1938,>,800,PASS
+Voltage Check,voltage,13.15,>=,11.5,PASS
+Overheat Check,temperature,83,<,110,PASS
+RPM Minimum Check,rpm,2452,>,800,PASS
+Voltage Check,voltage,11.4,>=,11.5,FAIL
+Overheat Check,temperature,78,<,110,PASS
+RPM Minimum Check,rpm,3283,>,800,PASS
+Voltage Check,voltage,14.26,>=,11.5,PASS
+Overheat Check,temperature,104,<,110,PASS
+RPM Minimum Check,rpm,1989,>,800,PASS
+Voltage Check,voltage,14.04,>=,11.5,PASS
+Overheat Check,temperature,88,<,110,PASS
+RPM Minimum Check,rpm,2295,>,800,PASS
+Voltage Check,voltage,12.67,>=,11.5,PASS
+Overheat Check,temperature,88,<,110,PASS
+RPM Minimum Check,rpm,1890,>,800,PASS
+Voltage Check,voltage,13.18,>=,11.5,PASS
+Overheat Check,temperature,82,<,110,PASS
+RPM Minimum Check,rpm,4353,>,800,PASS
+Voltage Check,voltage,13.83,>=,11.5,PASS
+Overheat Check,temperature,86,<,110,PASS
+RPM Minimum Check,rpm,1158,>,800,PASS
+Voltage Check,voltage,14.05,>=,11.5,PASS
+Overheat Check,temperature,96,<,110,PASS
+RPM Minimum Check,rpm,4707,>,800,PASS
+Voltage Check,voltage,13.41,>=,11.5,PASS
+Overheat Check,temperature,91,<,110,PASS
+RPM Minimum Check,rpm,3201,>,800,PASS
+Voltage Check,voltage,11.28,>=,11.5,FAIL
+Overheat Check,temperature,101,<,110,PASS
+RPM Minimum Check,rpm,4626,>,800,PASS
+Voltage Check,voltage,11.59,>=,11.5,PASS
+Overheat Check,temperature,86,<,110,PASS
+RPM Minimum Check,rpm,3304,>,800,PASS
+Voltage Check,voltage,14.28,>=,11.5,PASS
+Overheat Check,temperature,90,<,110,PASS
+RPM Minimum Check,rpm,959,>,800,PASS
+Voltage Check,voltage,13.58,>=,11.5,PASS
+Overheat Check,temperature,87,<,110,PASS
+RPM Minimum Check,rpm,1943,>,800,PASS
+Voltage Check,voltage,13.19,>=,11.5,PASS
+Overheat Check,temperature,88,<,110,PASS
+RPM Minimum Check,rpm,3911,>,800,PASS
+Voltage Check,voltage,13.7,>=,11.5,PASS
+Overheat Check,temperature,71,<,110,PASS
+RPM Minimum Check,rpm,4116,>,800,PASS
+Voltage Check,voltage,12.29,>=,11.5,PASS
+Overheat Check,temperature,95,<,110,PASS
+RPM Minimum Check,rpm,1854,>,800,PASS
+Voltage Check,voltage,11.09,>=,11.5,FAIL
+Overheat Check,temperature,105,<,110,PASS
+RPM Minimum Check,rpm,3139,>,800,PASS
+Voltage Check,voltage,14.23,>=,11.5,PASS
+Overheat Check,temperature,96,<,110,PASS
+RPM Minimum Check,rpm,1561,>,800,PASS
+Voltage Check,voltage,13.11,>=,11.5,PASS
+Overheat Check,temperature,89,<,110,PASS
+RPM Minimum Check,rpm,4987,>,800,PASS
+Voltage Check,voltage,13.48,>=,11.5,PASS
+Overheat Check,temperature,118,<,110,FAIL
+RPM Minimum Check,rpm,3781,>,800,PASS
+Voltage Check,voltage,11.91,>=,11.5,PASS
+Overheat Check,temperature,88,<,110,PASS
+RPM Minimum Check,rpm,2898,>,800,PASS
+Voltage Check,voltage,14.0,>=,11.5,PASS
+Overheat Check,temperature,103,<,110,PASS
+RPM Minimum Check,rpm,1134,>,800,PASS
+Voltage Check,voltage,13.85,>=,11.5,PASS
+Overheat Check,temperature,93,<,110,PASS
+RPM Minimum Check,rpm,1472,>,800,PASS
+Voltage Check,voltage,12.05,>=,11.5,PASS
+Overheat Check,temperature,75,<,110,PASS
+RPM Minimum Check,rpm,2540,>,800,PASS
+Voltage Check,voltage,11.88,>=,11.5,PASS
+Overheat Check,temperature,110,<,110,FAIL
+RPM Minimum Check,rpm,4413,>,800,PASS
+Voltage Check,voltage,11.58,>=,11.5,PASS
+Overheat Check,temperature,114,<,110,FAIL
+RPM Minimum Check,rpm,4201,>,800,PASS
+Voltage Check,voltage,12.13,>=,11.5,PASS
+Overheat Check,temperature,77,<,110,PASS
+RPM Minimum Check,rpm,3889,>,800,PASS
+Voltage Check,voltage,12.71,>=,11.5,PASS
+Overheat Check,temperature,88,<,110,PASS
+RPM Minimum Check,rpm,2483,>,800,PASS
+Voltage Check,voltage,13.04,>=,11.5,PASS
+Overheat Check,temperature,85,<,110,PASS
+RPM Minimum Check,rpm,4236,>,800,PASS
+Voltage Check,voltage,12.48,>=,11.5,PASS
+Overheat Check,temperature,108,<,110,PASS
+RPM Minimum Check,rpm,1288,>,800,PASS
+Voltage Check,voltage,12.13,>=,11.5,PASS
+Overheat Check,temperature,76,<,110,PASS
+RPM Minimum Check,rpm,4664,>,800,PASS
+Voltage Check,voltage,14.34,>=,11.5,PASS
+Overheat Check,temperature,97,<,110,PASS
+RPM Minimum Check,rpm,749,>,800,FAIL
+Voltage Check,voltage,13.36,>=,11.5,PASS
+Overheat Check,temperature,110,<,110,FAIL
+RPM Minimum Check,rpm,1587,>,800,PASS
+Voltage Check,voltage,11.78,>=,11.5,PASS
+Overheat Check,temperature,104,<,110,PASS
+RPM Minimum Check,rpm,2522,>,800,PASS
+Voltage Check,voltage,11.08,>=,11.5,FAIL
+Overheat Check,temperature,96,<,110,PASS
+RPM Minimum Check,rpm,1368,>,800,PASS
+Voltage Check,voltage,14.45,>=,11.5,PASS
+Overheat Check,temperature,115,<,110,FAIL
+RPM Minimum Check,rpm,3688,>,800,PASS
+Voltage Check,voltage,13.02,>=,11.5,PASS
+Overheat Check,temperature,120,<,110,FAIL
+RPM Minimum Check,rpm,3672,>,800,PASS
+Voltage Check,voltage,12.96,>=,11.5,PASS
+Overheat Check,temperature,105,<,110,PASS
+RPM Minimum Check,rpm,3368,>,800,PASS
+Voltage Check,voltage,12.2,>=,11.5,PASS
+Overheat Check,temperature,93,<,110,PASS
+RPM Minimum Check,rpm,2725,>,800,PASS
+Voltage Check,voltage,12.17,>=,11.5,PASS
+Overheat Check,temperature,103,<,110,PASS
+RPM Minimum Check,rpm,4423,>,800,PASS
+Voltage Check,voltage,13.06,>=,11.5,PASS
+Overheat Check,temperature,89,<,110,PASS
+RPM Minimum Check,rpm,3386,>,800,PASS
+Voltage Check,voltage,11.08,>=,11.5,FAIL
+Overheat Check,temperature,107,<,110,PASS
+RPM Minimum Check,rpm,929,>,800,PASS
+Voltage Check,voltage,11.24,>=,11.5,FAIL
+Overheat Check,temperature,79,<,110,PASS
+RPM Minimum Check,rpm,3775,>,800,PASS
+Voltage Check,voltage,12.04,>=,11.5,PASS
+Overheat Check,temperature,82,<,110,PASS
+RPM Minimum Check,rpm,2011,>,800,PASS
+Voltage Check,voltage,13.97,>=,11.5,PASS
+Overheat Check,temperature,98,<,110,PASS
+RPM Minimum Check,rpm,2510,>,800,PASS
+Voltage Check,voltage,13.99,>=,11.5,PASS
+Overheat Check,temperature,116,<,110,FAIL
+RPM Minimum Check,rpm,1887,>,800,PASS
+Voltage Check,voltage,11.47,>=,11.5,FAIL
+Overheat Check,temperature,86,<,110,PASS
+RPM Minimum Check,rpm,4886,>,800,PASS
+Voltage Check,voltage,12.56,>=,11.5,PASS
+Overheat Check,temperature,114,<,110,FAIL
+RPM Minimum Check,rpm,3514,>,800,PASS
+Voltage Check,voltage,11.85,>=,11.5,PASS
+Overheat Check,temperature,99,<,110,PASS
+RPM Minimum Check,rpm,3057,>,800,PASS
+Voltage Check,voltage,12.8,>=,11.5,PASS
+Overheat Check,temperature,75,<,110,PASS
+RPM Minimum Check,rpm,4070,>,800,PASS
+Voltage Check,voltage,14.21,>=,11.5,PASS
+Overheat Check,temperature,80,<,110,PASS
+RPM Minimum Check,rpm,2304,>,800,PASS
+Voltage Check,voltage,14.29,>=,11.5,PASS
+Overheat Check,temperature,85,<,110,PASS
+RPM Minimum Check,rpm,3692,>,800,PASS
+Voltage Check,voltage,12.66,>=,11.5,PASS
+Overheat Check,temperature,84,<,110,PASS
+RPM Minimum Check,rpm,1391,>,800,PASS
+Voltage Check,voltage,13.02,>=,11.5,PASS
+Overheat Check,temperature,116,<,110,FAIL
+RPM Minimum Check,rpm,776,>,800,FAIL
+Voltage Check,voltage,11.79,>=,11.5,PASS
+Overheat Check,temperature,100,<,110,PASS
+RPM Minimum Check,rpm,2530,>,800,PASS
+Voltage Check,voltage,13.24,>=,11.5,PASS
+Overheat Check,temperature,99,<,110,PASS
+RPM Minimum Check,rpm,3156,>,800,PASS
+Voltage Check,voltage,11.15,>=,11.5,FAIL
+Overheat Check,temperature,108,<,110,PASS
+RPM Minimum Check,rpm,2036,>,800,PASS
+Voltage Check,voltage,11.38,>=,11.5,FAIL
+Overheat Check,temperature,107,<,110,PASS
+RPM Minimum Check,rpm,2033,>,800,PASS
+Voltage Check,voltage,13.25,>=,11.5,PASS
+Overheat Check,temperature,116,<,110,FAIL
+RPM Minimum Check,rpm,1141,>,800,PASS
+Voltage Check,voltage,13.24,>=,11.5,PASS
+Overheat Check,temperature,76,<,110,PASS
+RPM Minimum Check,rpm,981,>,800,PASS
+Voltage Check,voltage,14.18,>=,11.5,PASS
+Overheat Check,temperature,117,<,110,FAIL
+RPM Minimum Check,rpm,2308,>,800,PASS
+Voltage Check,voltage,12.16,>=,11.5,PASS
+Overheat Check,temperature,70,<,110,PASS
+RPM Minimum Check,rpm,2195,>,800,PASS
+Voltage Check,voltage,14.14,>=,11.5,PASS
+Overheat Check,temperature,96,<,110,PASS
+RPM Minimum Check,rpm,2958,>,800,PASS
+Voltage Check,voltage,14.23,>=,11.5,PASS
+Overheat Check,temperature,108,<,110,PASS
+RPM Minimum Check,rpm,935,>,800,PASS
+Voltage Check,voltage,11.76,>=,11.5,PASS
+Overheat Check,temperature,105,<,110,PASS
+RPM Minimum Check,rpm,2737,>,800,PASS
+Voltage Check,voltage,12.58,>=,11.5,PASS
+Overheat Check,temperature,88,<,110,PASS
+RPM Minimum Check,rpm,2499,>,800,PASS
+Voltage Check,voltage,13.06,>=,11.5,PASS
+Overheat Check,temperature,119,<,110,FAIL
+RPM Minimum Check,rpm,798,>,800,FAIL
+Voltage Check,voltage,12.08,>=,11.5,PASS
+Overheat Check,temperature,74,<,110,PASS
+RPM Minimum Check,rpm,792,>,800,FAIL
+Voltage Check,voltage,11.75,>=,11.5,PASS
+Overheat Check,temperature,74,<,110,PASS
+RPM Minimum Check,rpm,1134,>,800,PASS
+Voltage Check,voltage,13.17,>=,11.5,PASS
+Overheat Check,temperature,109,<,110,PASS
+RPM Minimum Check,rpm,1985,>,800,PASS
+Voltage Check,voltage,11.15,>=,11.5,FAIL
+Overheat Check,temperature,94,<,110,PASS
+RPM Minimum Check,rpm,2608,>,800,PASS
+Voltage Check,voltage,12.18,>=,11.5,PASS
+Overheat Check,temperature,99,<,110,PASS
+RPM Minimum Check,rpm,2449,>,800,PASS
+Voltage Check,voltage,14.1,>=,11.5,PASS
+Overheat Check,temperature,73,<,110,PASS
+RPM Minimum Check,rpm,2055,>,800,PASS
+Voltage Check,voltage,12.56,>=,11.5,PASS
+Overheat Check,temperature,92,<,110,PASS
+RPM Minimum Check,rpm,3752,>,800,PASS
+Voltage Check,voltage,11.65,>=,11.5,PASS
+Overheat Check,temperature,111,<,110,FAIL
+RPM Minimum Check,rpm,2388,>,800,PASS
+Voltage Check,voltage,13.26,>=,11.5,PASS
+Overheat Check,temperature,105,<,110,PASS
+RPM Minimum Check,rpm,1344,>,800,PASS
+Voltage Check,voltage,12.77,>=,11.5,PASS
+Overheat Check,temperature,77,<,110,PASS
+RPM Minimum Check,rpm,1073,>,800,PASS
+Voltage Check,voltage,13.38,>=,11.5,PASS
+Overheat Check,temperature,86,<,110,PASS
+RPM Minimum Check,rpm,1758,>,800,PASS
+Voltage Check,voltage,11.05,>=,11.5,FAIL
+Overheat Check,temperature,120,<,110,FAIL
+RPM Minimum Check,rpm,2988,>,800,PASS
+Voltage Check,voltage,12.37,>=,11.5,PASS
+Overheat Check,temperature,120,<,110,FAIL
+RPM Minimum Check,rpm,1277,>,800,PASS
+Voltage Check,voltage,11.47,>=,11.5,FAIL
+Overheat Check,temperature,100,<,110,PASS
+RPM Minimum Check,rpm,730,>,800,FAIL
+Voltage Check,voltage,13.67,>=,11.5,PASS
+Overheat Check,temperature,77,<,110,PASS
+RPM Minimum Check,rpm,3402,>,800,PASS
+Voltage Check,voltage,12.82,>=,11.5,PASS
+Overheat Check,temperature,91,<,110,PASS
+RPM Minimum Check,rpm,3121,>,800,PASS
+Voltage Check,voltage,12.89,>=,11.5,PASS
+Overheat Check,temperature,94,<,110,PASS
+RPM Minimum Check,rpm,4441,>,800,PASS
+Voltage Check,voltage,12.22,>=,11.5,PASS
+Overheat Check,temperature,99,<,110,PASS
+RPM Minimum Check,rpm,3075,>,800,PASS
+Voltage Check,voltage,11.89,>=,11.5,PASS
+Overheat Check,temperature,118,<,110,FAIL
+RPM Minimum Check,rpm,2005,>,800,PASS
+Voltage Check,voltage,14.14,>=,11.5,PASS
+Overheat Check,temperature,103,<,110,PASS
+RPM Minimum Check,rpm,4826,>,800,PASS
+Voltage Check,voltage,13.71,>=,11.5,PASS
+Overheat Check,temperature,91,<,110,PASS
+RPM Minimum Check,rpm,3346,>,800,PASS
+Voltage Check,voltage,11.38,>=,11.5,FAIL
+Overheat Check,temperature,95,<,110,PASS
+RPM Minimum Check,rpm,2221,>,800,PASS
+Voltage Check,voltage,11.76,>=,11.5,PASS
+Overheat Check,temperature,111,<,110,FAIL
+RPM Minimum Check,rpm,2214,>,800,PASS
+Voltage Check,voltage,13.69,>=,11.5,PASS
+Overheat Check,temperature,81,<,110,PASS
+RPM Minimum Check,rpm,2384,>,800,PASS
+Voltage Check,voltage,12.58,>=,11.5,PASS
+Overheat Check,temperature,90,<,110,PASS
+RPM Minimum Check,rpm,838,>,800,PASS
+Voltage Check,voltage,14.24,>=,11.5,PASS
+Overheat Check,temperature,98,<,110,PASS
+RPM Minimum Check,rpm,4276,>,800,PASS
+Voltage Check,voltage,13.74,>=,11.5,PASS
+Overheat Check,temperature,107,<,110,PASS
+RPM Minimum Check,rpm,701,>,800,FAIL
+Voltage Check,voltage,13.64,>=,11.5,PASS
+Overheat Check,temperature,114,<,110,FAIL
+RPM Minimum Check,rpm,4760,>,800,PASS
+Voltage Check,voltage,11.54,>=,11.5,PASS
+Overheat Check,temperature,90,<,110,PASS
+RPM Minimum Check,rpm,2781,>,800,PASS
+Voltage Check,voltage,12.09,>=,11.5,PASS
+Overheat Check,temperature,72,<,110,PASS
+RPM Minimum Check,rpm,1709,>,800,PASS
+Voltage Check,voltage,13.73,>=,11.5,PASS
+Overheat Check,temperature,92,<,110,PASS
+RPM Minimum Check,rpm,3349,>,800,PASS
+Voltage Check,voltage,13.92,>=,11.5,PASS
+Overheat Check,temperature,95,<,110,PASS
+RPM Minimum Check,rpm,1798,>,800,PASS
+Voltage Check,voltage,13.24,>=,11.5,PASS
+Overheat Check,temperature,119,<,110,FAIL
+RPM Minimum Check,rpm,4532,>,800,PASS
+Voltage Check,voltage,13.62,>=,11.5,PASS
+Overheat Check,temperature,79,<,110,PASS
+RPM Minimum Check,rpm,1461,>,800,PASS
+Voltage Check,voltage,12.36,>=,11.5,PASS
+Overheat Check,temperature,103,<,110,PASS
+RPM Minimum Check,rpm,1882,>,800,PASS
+Voltage Check,voltage,14.0,>=,11.5,PASS
+Overheat Check,temperature,95,<,110,PASS
+RPM Minimum Check,rpm,2343,>,800,PASS
+Voltage Check,voltage,12.15,>=,11.5,PASS
+Overheat Check,temperature,79,<,110,PASS
+RPM Minimum Check,rpm,3951,>,800,PASS
+Voltage Check,voltage,13.4,>=,11.5,PASS
+Overheat Check,temperature,119,<,110,FAIL
+RPM Minimum Check,rpm,1728,>,800,PASS
+Voltage Check,voltage,14.46,>=,11.5,PASS
+Overheat Check,temperature,93,<,110,PASS
+RPM Minimum Check,rpm,3205,>,800,PASS
+Voltage Check,voltage,11.46,>=,11.5,FAIL
+Overheat Check,temperature,109,<,110,PASS
+RPM Minimum Check,rpm,807,>,800,PASS
+Voltage Check,voltage,11.0,>=,11.5,FAIL
+Overheat Check,temperature,111,<,110,FAIL
+RPM Minimum Check,rpm,1154,>,800,PASS
+Voltage Check,voltage,11.92,>=,11.5,PASS
+Overheat Check,temperature,75,<,110,PASS
+RPM Minimum Check,rpm,4222,>,800,PASS
+Voltage Check,voltage,11.75,>=,11.5,PASS
+Overheat Check,temperature,82,<,110,PASS
+RPM Minimum Check,rpm,3852,>,800,PASS
+Voltage Check,voltage,13.15,>=,11.5,PASS
+Overheat Check,temperature,96,<,110,PASS
+RPM Minimum Check,rpm,2964,>,800,PASS
+Voltage Check,voltage,11.6,>=,11.5,PASS
+Overheat Check,temperature,105,<,110,PASS
+RPM Minimum Check,rpm,2173,>,800,PASS
+Voltage Check,voltage,13.56,>=,11.5,PASS
+Overheat Check,temperature,84,<,110,PASS
+RPM Minimum Check,rpm,2778,>,800,PASS
+Voltage Check,voltage,13.99,>=,11.5,PASS
+Overheat Check,temperature,77,<,110,PASS
+RPM Minimum Check,rpm,4898,>,800,PASS
+Voltage Check,voltage,14.38,>=,11.5,PASS
+Overheat Check,temperature,77,<,110,PASS
+RPM Minimum Check,rpm,1617,>,800,PASS
+Voltage Check,voltage,11.4,>=,11.5,FAIL
+Overheat Check,temperature,97,<,110,PASS
+RPM Minimum Check,rpm,2322,>,800,PASS
+Voltage Check,voltage,11.87,>=,11.5,PASS
+Overheat Check,temperature,105,<,110,PASS
+RPM Minimum Check,rpm,4128,>,800,PASS
+Voltage Check,voltage,13.46,>=,11.5,PASS
+Overheat Check,temperature,92,<,110,PASS
+RPM Minimum Check,rpm,824,>,800,PASS
+Voltage Check,voltage,11.46,>=,11.5,FAIL
+Overheat Check,temperature,89,<,110,PASS
+RPM Minimum Check,rpm,936,>,800,PASS
+Voltage Check,voltage,13.63,>=,11.5,PASS
+Overheat Check,temperature,107,<,110,PASS
+RPM Minimum Check,rpm,2802,>,800,PASS
+Voltage Check,voltage,14.19,>=,11.5,PASS
+Overheat Check,temperature,95,<,110,PASS
+RPM Minimum Check,rpm,4557,>,800,PASS
+Voltage Check,voltage,14.19,>=,11.5,PASS
+Overheat Check,temperature,83,<,110,PASS
+RPM Minimum Check,rpm,1523,>,800,PASS
+Voltage Check,voltage,13.13,>=,11.5,PASS
+Overheat Check,temperature,112,<,110,FAIL
+RPM Minimum Check,rpm,3575,>,800,PASS
+Voltage Check,voltage,13.92,>=,11.5,PASS
+Overheat Check,temperature,107,<,110,PASS
+RPM Minimum Check,rpm,2860,>,800,PASS
+Voltage Check,voltage,12.39,>=,11.5,PASS
+Overheat Check,temperature,106,<,110,PASS
+RPM Minimum Check,rpm,1923,>,800,PASS
+Voltage Check,voltage,12.33,>=,11.5,PASS
+Overheat Check,temperature,77,<,110,PASS
+RPM Minimum Check,rpm,1696,>,800,PASS
+Voltage Check,voltage,14.02,>=,11.5,PASS
+Overheat Check,temperature,116,<,110,FAIL
+RPM Minimum Check,rpm,1470,>,800,PASS
+Voltage Check,voltage,12.33,>=,11.5,PASS
+Overheat Check,temperature,87,<,110,PASS
+RPM Minimum Check,rpm,1692,>,800,PASS
+Voltage Check,voltage,11.01,>=,11.5,FAIL
+Overheat Check,temperature,72,<,110,PASS
+RPM Minimum Check,rpm,4729,>,800,PASS
+Voltage Check,voltage,14.37,>=,11.5,PASS
+Overheat Check,temperature,98,<,110,PASS
+RPM Minimum Check,rpm,3233,>,800,PASS
+Voltage Check,voltage,11.11,>=,11.5,FAIL
+Overheat Check,temperature,116,<,110,FAIL
+RPM Minimum Check,rpm,1274,>,800,PASS
+Voltage Check,voltage,12.87,>=,11.5,PASS
+Overheat Check,temperature,78,<,110,PASS
+RPM Minimum Check,rpm,1490,>,800,PASS
+Voltage Check,voltage,11.69,>=,11.5,PASS
+Overheat Check,temperature,98,<,110,PASS
+RPM Minimum Check,rpm,3964,>,800,PASS
+Voltage Check,voltage,12.44,>=,11.5,PASS
+Overheat Check,temperature,75,<,110,PASS
+RPM Minimum Check,rpm,1630,>,800,PASS
+Voltage Check,voltage,13.49,>=,11.5,PASS
+Overheat Check,temperature,113,<,110,FAIL
+RPM Minimum Check,rpm,4889,>,800,PASS
+Voltage Check,voltage,14.09,>=,11.5,PASS
+Overheat Check,temperature,91,<,110,PASS
+RPM Minimum Check,rpm,4101,>,800,PASS
+Voltage Check,voltage,11.67,>=,11.5,PASS
+Overheat Check,temperature,81,<,110,PASS
+RPM Minimum Check,rpm,1763,>,800,PASS
+Voltage Check,voltage,11.7,>=,11.5,PASS
+Overheat Check,temperature,107,<,110,PASS
+RPM Minimum Check,rpm,3322,>,800,PASS
+Voltage Check,voltage,12.75,>=,11.5,PASS
+Overheat Check,temperature,109,<,110,PASS
+RPM Minimum Check,rpm,1236,>,800,PASS
+Voltage Check,voltage,11.2,>=,11.5,FAIL
